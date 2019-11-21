@@ -1,0 +1,24 @@
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.exe
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.deps.json
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.runtimeconfig.json
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.runtimeconfig.dev.json
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.dll
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.pdb
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.csprojAssemblyReference.cache
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.AssemblyInfoInputs.cache
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.AssemblyInfo.cs
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.dll
+C:\Users\Milan\OneDrive\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.pdb
+C:\Users\Milan Mlinar\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.exe
+C:\Users\Milan Mlinar\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.deps.json
+C:\Users\Milan Mlinar\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.runtimeconfig.json
+C:\Users\Milan Mlinar\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.runtimeconfig.dev.json
+C:\Users\Milan Mlinar\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.dll
+C:\Users\Milan Mlinar\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\JollyPirate.pdb
+C:\Users\Milan Mlinar\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.csprojAssemblyReference.cache
+C:\Users\Milan Mlinar\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.AssemblyInfoInputs.cache
+C:\Users\Milan Mlinar\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.AssemblyInfo.cs
+C:\Users\Milan Mlinar\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.dll
+C:\Users\Milan Mlinar\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.pdb
+C:\Users\Milan Mlinar\Desktop\JollyPirate\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Milan Mlinar\Desktop\JollyPirate\obj\Debug\netcoreapp3.0\JollyPirate.csproj.CopyComplete
