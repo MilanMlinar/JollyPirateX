@@ -24,7 +24,8 @@ namespace JollyPirate.controller
             {
                 if (usersInput == ActionTaken.RegisterMember)
                 {
-                    m.addMember(v.registerMember());
+                    Member member = v.registerMember();
+                    m.addMember(member);
                     db.saveMembersRegistryToDB(m.getMembersList());
                 }
                 
