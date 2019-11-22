@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using JollyPirate.controller;
 using JollyPirate.model;
 using JollyPirate.view;
@@ -109,7 +110,8 @@ namespace JollyPirate.controller
 
                 if (usersInput == ActionTaken.ViewSimpleList)
                 {
-                    v.viewSimpleList(m.getMembersList());
+                    IEnumerable<Member> members = m.getMembersList();
+                    v.viewSimpleList(members);
                 }
 
                 if (usersInput == ActionTaken.ViewDetailedList)
