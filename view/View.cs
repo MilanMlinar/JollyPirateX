@@ -269,7 +269,6 @@ namespace JollyPirate.view
         public void viewSimpleList(IEnumerable<Member> membersList)
         {
             renderLogo();
-            Console.WriteLine("You are viewing a simple list of the registered members");
             Console.WriteLine();
             
             foreach(var member in membersList)
