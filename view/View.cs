@@ -110,7 +110,6 @@ namespace JollyPirate.view
             do
             {
                 Console.Clear();
-                renderLogo();
                 Console.WriteLine("Register a new member");
                 Console.WriteLine("Type the members name: ");
                 name = Console.ReadLine();
@@ -119,7 +118,6 @@ namespace JollyPirate.view
             do
             {
                 Console.Clear();
-                renderLogo();
                 Console.WriteLine("Register a new member");
                 Console.WriteLine("Type the members social security number, follow the format yymmddxxxx: ");
                 socialSecurityNumber = Console.ReadLine();
